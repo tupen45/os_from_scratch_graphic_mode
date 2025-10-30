@@ -1,0 +1,2 @@
+# os_from_scratch_graphic_mode
+# os_from_scratch_graphic_mode

@@ -1,0 +1,32 @@
+# Build artifacts
+myos.iso
+kernel.bin
+*.o
+*.obj
+*.iso
+*.elf
+*.img
+
+# Temporary files
+*.tmp
+*~
+*.swp
+
+# Vendor/build directories
+vendor/
+
+# Editor configurations
+.vscode/
+.idea/
+
+# Serial logs
+serial_*.log
+
+# Other large/generated files
+tools/**/output/
+
+# If you use cross toolchain outputs
+*.map
+
+# Allow user to override ignores
+!.gitignore.user
